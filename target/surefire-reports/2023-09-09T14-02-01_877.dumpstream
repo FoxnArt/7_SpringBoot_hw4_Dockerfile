@@ -1,0 +1,5 @@
+# Created at 2023-09-09T14:02:02.469
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Нетология Java\IdeaProjects\7_Spring Boot, deployment и инфраструктура\_7_SpringBoot_hw2_1_AuthorizationService\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
